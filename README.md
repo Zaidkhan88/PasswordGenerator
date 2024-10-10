@@ -1,0 +1,1 @@
+This is a Password Generator built using React and implemented with React Hooks. It allows users to generate secure passwords based on customizable settings such as length, inclusion of special characters, and numbers.
